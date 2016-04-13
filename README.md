@@ -1,4 +1,4 @@
 # hello-world
-My hello World Repo
+JavaScript form Validation Branch
 
-Just getting Started
+In this section we will be looking at validating forms using Javascript/HTML/CSS.
